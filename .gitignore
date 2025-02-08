@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+startup_funding_cleaned.csv
+startup_funding.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
