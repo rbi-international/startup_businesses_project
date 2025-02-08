@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 startup_funding_cleaned.csv
 startup_funding.csv
+real_code.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
